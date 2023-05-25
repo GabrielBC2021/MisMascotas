@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="description">Description</string>
+
+    <string-array name="perros_nombres">
+        <item>Husky</item>
+        <item>Pastor Belga</item>
+        <item>Pitbull</item>
+        <item>Pomerania</item>
+        <item>Rottweiler</item>
+        <item>San Bernardo</item>
+    </string-array>
+
+    <string-array name="perros_descripcionCompleta">
+        <item>El husky siberiano es una raza de perro de trabajo originaria del norte de Siberia. Este perro fue creado por la tribu Chukchi como perro de trabajo para tirar de los trineos a través de largas distancias</item>
+        <item>El pastor belga u ovejero belga es el nombre de cuatro razas o variedades de perros originarias de Bélgica, dependiendo de la asociación cinológica que consultemos. Las cuatro razas o variedades son: Groenendael, Laekenois, Tervueren y Malinois.</item>
+        <item>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los bull-and-terriers, importados desde el Reino Unido en el siglo XIX.​ Su esperanza de vida es de doce a diecisiete años.</item>
+        <item>El pomerania es una raza canina perteneciente a la familia de los spitz, que recibe su nombre de la región de Pomerania Central, actualmente en la frontera entre Alemania y Polonia, y se clasifica como perro toy por su pequeño tamaño.</item>
+        <item>El rottweiler es una raza canina de tipo molosoide originaria de Alemania, aunque fue también usado en la Antigua Roma.</item>
+        <item>El san bernardo es una raza de perro originaria de los Alpes suizos y del norte de Italia. Es el perro boyero más famoso junto con el mastín del Pirineo, y es muy próximo al gran boyero suizo.</item>
+    </string-array>
+
+    <string-array name="perros_descripcion">
+        <item>Descripcion Husky</item>
+        <item>Descripcion Pastor Belga</item>
+        <item>Descripcion Pitbull</item>
+        <item>Descripcion Pomerania</item>
+        <item>Descripcion Rottweiler</item>
+        <item>Descripcion San Bernardo</item>
+    </string-array>
+
+    <string name="mensaje">Camara</string>
+
+</resources>
